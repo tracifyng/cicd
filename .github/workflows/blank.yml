@@ -36,4 +36,4 @@ jobs:
           server:  ftp.tracify.app
           username: cicd@epod.tracify.app
           password: Frisky667@
-          server-dir: /home/app/epod.tracify.app/cicd
+          server-dir: /home/app/epod.tracify.app/cicd/
